@@ -14,7 +14,7 @@
 
 ### 4. A Mesaure Of Quality
 
-![04AMeasureOfQuality](Resources/04AMesaureOfQuality.jpg)
+![04AMeasureOfQuality](Resources/04AMeasureOfQuality.jpg)
 
 ### 5. A Measure Of Security
 
@@ -22,7 +22,7 @@
 
 ### 6. The Product Of The Employee
 
-![06TheProductOfTheEmployee](Resources/TheProductOfTheEmployee.jpg)
+![06TheProductOfTheEmployee.jpg](Resources/06TheProductOfTheEmployee.jpg)
 
 ### 7. Conclusion
 
@@ -32,4 +32,4 @@
 
 ### References
 
-Ung, E. (2023). [The Human Side Of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement). https://github.com/ericung/humansideofsupplychainmanagement/tree/main
+Ung, E. (2023). [The Human Side Of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement).
