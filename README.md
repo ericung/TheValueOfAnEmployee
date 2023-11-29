@@ -1,5 +1,7 @@
 # The Value Of An Employee
 
+[*Minimum Requirements*](https://github.com/ericung/TheValueOfAnEmployee/wiki)
+
 ### 1. The Four Variables And The Product
 
 ![01TheFourVariablesAndTheProduct](Resources/01TheFourVariablesAndTheProduct.jpg)
