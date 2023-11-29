@@ -34,11 +34,17 @@
 
 Maxwell, J. C. (2002). The 17 essential qualities of a team player: Becoming the kind of person every team wants. Thomas Nelson.
 
+Amazon. (n.d.). [Our leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles). Amazon Jobs.
+
+Scarlet, A. (2023, January 10). [Interviewing at Amazon: Leadership Principles](https://www.scarletink.com/interviewing-at-amazon-leadership-principles/). Scarlet Ink.
+
 Fishbane, P. M., Gasiorowicz, S., & Thornton, S. T. (1996). Physics for scientists and engineers (3rd ed.). Prentice Hall.
 
 Sullivan, M. (2008). Precalculus (8th ed., p. 1152). Prentice Hall.
 
 Stewart, J. (2020). Calculus (9th ed.). Cengage Learning.
+
+
 
 Ung, E. (2024). Inferrable Languages. https://github.com/ericung/InferrableLanguages
 
