@@ -38,6 +38,8 @@ Amazon. (n.d.). [Our leadership principles](https://www.amazon.jobs/content/en/o
 
 Scarlet, A. (2023, January 10). [Interviewing at Amazon: Leadership Principles](https://www.scarletink.com/interviewing-at-amazon-leadership-principles/). Scarlet Ink.
 
+QuickMBA. (n.d.). [QuickMBA](https://quickmba.com).
+
 Fishbane, P. M., Gasiorowicz, S., & Thornton, S. T. (1996). Physics for scientists and engineers (3rd ed.). Prentice Hall.
 
 Sullivan, M. (2008). Precalculus (8th ed., p. 1152). Prentice Hall.
