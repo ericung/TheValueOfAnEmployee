@@ -38,6 +38,8 @@ Fishbane, P. M., Gasiorowicz, S., & Thornton, S. T. (1996). Physics for scientis
 
 Sullivan, M. (2008). Precalculus (8th ed., p. 1152). Prentice Hall.
 
+Stewart, J. (2020). Calculus (9th ed.). Cengage Learning.
+
 Ung, E. (2023). [The Human Side Of Supply Chain Management](https://github.com/ericung/humansideofsupplychainmanagement).
 
 Ung, E. (2024). Inferrable Languages. https://github.com/ericung/InferrableLanguages
